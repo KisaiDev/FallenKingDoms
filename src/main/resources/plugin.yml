@@ -1,0 +1,3 @@
+name: ArdalFallenKingDoms
+version: '${project.version}'
+main: fr.misteryy.ardalfallenkingdoms.Main

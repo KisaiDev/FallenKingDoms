@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ArdalFallenKingDoms:jar">
+    <output-path>$PROJECT_DIR$/../ServerMinecraft/localhost/plugins</output-path>
+    <root id="archive" name="ArdalFallenKingDoms.jar">
+      <element id="module-output" name="ArdalFallenKingDoms" />
+    </root>
+  </artifact>
+</component>
